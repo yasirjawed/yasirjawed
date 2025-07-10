@@ -52,15 +52,15 @@
 
 ### 📱 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasirjaveddev/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasirjaveddev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-jawed-a61160221/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasirjawed)
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yasirjaveddev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yasirjaveddev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirjaveddev&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=yasirjawed&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yasirjawed&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirjawed&theme=dark&hide_border=false&layout=compact)
 
 ---
 
@@ -69,6 +69,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=yasirjaveddev&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=yasirjawed&icon=0&color=1)](https://visitcount.itsvg.in)
 
 Thanks for visiting! 🚀
